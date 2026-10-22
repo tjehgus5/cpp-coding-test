@@ -4,7 +4,7 @@
 
 | 문제 | 사이트 | 사용한 패턴 | 난이도 | 날짜 |
 |---|---|---|---|---|
-| (아직 없음) | | | | |
+| [글자 지우기](programmers_181900_delete_characters/programmers_181900_delete_characters.md) | 프로그래머스 181900 | [erase_by_indices](../patterns/erase_by_indices/erase_by_indices.md) | 코딩 기초 트레이닝 | 2026-10-23 |
 
 ## 추가 방법
 
