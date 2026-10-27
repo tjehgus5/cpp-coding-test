@@ -5,6 +5,7 @@
 | 문제 | 사이트 | 사용한 패턴 | 난이도 | 날짜 |
 |---|---|---|---|---|
 | [글자 지우기](programmers_181900_delete_characters/programmers_181900_delete_characters.md) | 프로그래머스 181900 | [erase_by_indices](../patterns/erase_by_indices/erase_by_indices.md) | 코딩 기초 트레이닝 | 2026-10-23 |
+| [베스트앨범](programmers_42579_best_album/programmers_42579_best_album.md) (오답노트) | 프로그래머스 42579 | [sort_custom_compare](../patterns/sort_custom_compare/sort_custom_compare.md) | 고득점 Kit > 해시 | 2026-10-28 |
 
 ## 추가 방법
 
